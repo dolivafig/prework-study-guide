@@ -6,15 +6,6 @@ This website was created as a prework for the bootcamp, it was developed to have
 to create a dynamic website. The purpose of the website is for the student to practice using gitbash, github, and visual studio. Website will be live as it will get updated 
 by new lessons learned or as a cheat sheet for code.
 
-//## Table of Contents (Optional)
-
-//If your README is long, add a table of contents to make it easy for users to find what they need.
-
-//- [Installation](#installation)
-//- [Usage](#usage)
-//- [Credits](#credits)
-//- [License](#license)
-
 ## Installation
 
 N/A
