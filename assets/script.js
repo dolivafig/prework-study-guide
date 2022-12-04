@@ -1,4 +1,7 @@
-var topics = ['HTML', 'CSS', 'Git', 'JavaScript'];
+/*NOTES:
+“Hosting Options”: Virtual Private Server, Heroku, Docker, and Kubernetes
+*/
+var topics = ['HTML', 'CSS', 'Git', 'JavaScript','Command'];
 var randomTopic = topics[Math.floor(Math.random() * topics.length)];
 
 function listTopics() {
@@ -17,6 +20,8 @@ if (randomTopic === 'HTML') {
  console.log("Let's study Git!");
 } else if (randomTopic === 'JavaScript') {
  console.log("Let's study JavaScript!");
+} else if (randomTopic === 'Command') {
+    console.log("Let's study CMD!");
 } else {
  console.log('Please try again!');
 }
